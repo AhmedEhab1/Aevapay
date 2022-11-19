@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aevapay</string>
+    <string name="all_repo">All Repositories</string>
+    <string name="something_wrong">Something went wrong</string>
+</resources>
